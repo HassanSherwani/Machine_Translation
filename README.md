@@ -6,7 +6,8 @@ NLP application(Machine Translation)
 
 pandas , numpy , re , string , sklearn , tensorflow , keras
 
-References
+# References
+
 RNN: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 LSTM: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
